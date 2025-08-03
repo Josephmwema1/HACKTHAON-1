@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Joseph Mwema</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    h1, h2 {
+      color: #2c3e50;
+    }
+
+    .section {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-left: 5px solid #3498db;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .contact a {
+      color: #1e90ff;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="section">
+    <h1>📝 ABOUT ME</h1>
+    <p>Hello! I’m <strong>Joseph Mwema</strong>.</p>
+    <p>
+      Results-driven Actuarial Science professional with a strong foundation in mathematics and statistics. I have proven ability to analyze complex problems, identify root causes, and develop effective solutions. I am a detail-oriented and driven by a passion for accuracy and precision. I am constantly seeking to leverage my analytical skills and expertise to drive business growth and informed decision-making.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>💼 PROFESSIONAL WORK BACKGROUND</h2>
+    <p>I have worked in consultancy services, Retail and Hospitality and Hotel Industries.</p>
+
+    <p><strong>Current Role:</strong> Business Development Associate at Actuarial Services East Africa Limited</p>
+    <ul>
+      <li>Undertake business development activities</li>
+      <li>Manage key accounts</li>
+      <li>Implement sales and marketing strategies</li>
+      <li>Build client relationships, conduct market research and competitor analysis</li>
+      <li>Manage projects and provide exceptional customer service</li>
+      <li>Support business strategy and policy development</li>
+    </ul>
+
+    <p><strong>Previous Role:</strong> Sales and Customer Service Manager at Canvas Computers Wholesalers and Retailers</p>
+    <ul>
+      <li>Led sales team to achieve targets</li>
+      <li>Handled customer service, POS, inventory, and reports</li>
+      <li>Managed key accounts and sales performance</li>
+    </ul>
+
+    <p><strong>Earlier Role:</strong> Sales and Business Operations Manager at Royal Prime Investment</p>
+    <ul>
+      <li>Led 9 employees across departments</li>
+      <li>Oversaw planning, operations, sales strategy and compliance</li>
+      <li>Managed key accounts, finances, and stakeholder relations</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🎓 EDUCATION BACKGROUND</h2>
+    <ul>
+      <li>Bachelor of Science in Actuarial Science, University of Kabianga, Kenya (2017) – 2nd Class Upper</li>
+      <li>Diploma in Risk Management, Alison, Galway, Ireland – Ongoing (2026)</li>
+      <li>Certification in Software Development, Power Learn Project Africa – Ongoing (Nov 2025)</li>
+      <li>Certificates in Operations, Strategic and Project Management, Sales and Marketing Analytics and Operations, Data Analysis and Visualization (Power BI, Tableau, Excel), Cambridge International Qualifications, UK – 2025</li>
+      <li>KCSE: Scored A-</li>
+    </ul>
+    <p>📎 <a href="https://drive.google.com/file/d/1Wv_P95zNppng8d7VzIFtnlX4K3i9oBDp/view" target="_blank">Comprehensive Education Background</a></p>
+  </div>
+
+  <div class="section">
+    <h2>💡 INTERESTS</h2>
+    <ul>
+      <li>Mathematics and problem-solving</li>
+      <li>Traveling and exploration – adventure, historical sites, oceans</li>
+      <li>Music – concerts and personal listening</li>
+      <li>Movies – theaters and relaxing movie time</li>
+      <li>Learning – curious about new things; currently exploring book writing</li>
+    </ul>
+  </div>
+
+  <div class="section contact">
+    <h2>📬 CONTACT ME</h2>
+    <p>Feel free to reach out: 
+      <a href="https://forms.gle/U9AggpVNLniMxXUS6" target="_blank">Contact Form</a>
+    </p>
+  </div>
+
+</body>
+</html>
